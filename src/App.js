@@ -3,7 +3,6 @@ import './index.css';
 import api_key from './api_key';
 
 
-
 function App() {
   return (
     <div className="app">
